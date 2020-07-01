@@ -1,5 +1,5 @@
 {
-   "startTime": 1593536400,
+   "startTime": 1593608400,
    "roundDuration": 6000,
    "consensusGroupSize": 63,
    "minNodesPerShard": 400,
@@ -7,7 +7,7 @@
    "metaChainMinNodes": 400,
    "hysteresis": 0.2,
    "adaptivity": false,
-   "chainID": "v1.0.135",
+   "chainID": "v1.0.136",
    "initialNodes": [
       {
          "pubkey": "0ee6d8eeb18ff0f796b5eeb059bfbced1b2d692bc7b8e0c166591a57ace0587f86b29dd6061958d013b03a137dd6dc055f74e48416c5562396b163aa558aa836f63b59a5f6d0c5ad0958d545c19326307320877af369578af1311c02d96d3e81",
@@ -1980,6 +1980,10 @@
       {
          "pubkey": "885b594becae02a73da81a41d70ee85caaffe06e54b6c37889416f6c9777fb0e9dbbb3d788adb5316209238d3d8cc4089a18521fb19211badc570e1e9782708d045001a99c1228553e81f10a1d49466489e8fc8b27105a57021a0378af3a7b19",
          "address": "erd1lvvhr8kzrtntlrucdzv0kl56pj20lnzt70laejpdns82shewj33qjgltl0"
+      },
+      {
+         "pubkey": "f8c12f90d56dedcff7e389afa26cf5ab378aa3877e5837452069c52b991363a61923a0b2aeb640c64d046d98cb4f2318b8860eb04fe0fa3693ae9430a415be23f3169340d2eaefd813aebd6dffd2f76949e354a5675e51acc9a217ffa63dd093",
+         "address": "erd173hcejjazep2hpeef4z37gpn4vvd0dyj4kj4su9edgp6lvsnptvstgq859"
       },
       {
          "pubkey": "d6d32e28f2df244624eeaccf5e08f7a6c617a6c948e4a42e19c1b6f68ea0c77eba3ee10501e179f788455d7e77c3cf082bc9a7a4fa8f136a25497189a37d10bc6826cc3ed5da714f6c931bce5af271e5d558e3b8142ad1e367fd95a4c7f88c11",
