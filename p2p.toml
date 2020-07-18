@@ -4,7 +4,6 @@
 [Node]
     #Port is the port that will be opened by the node on all interfaces so other peers can connect to it
     #If the port = 0, the node will search for a free port on the machine and use it
-    #Can use single values such as 0, 10230, 15670 or a range such as 5000-10000
     Port = "37373-38383"
 
     #Seed represents the seed string generator for p2p identity (used during authentication and message passing).
@@ -68,8 +67,8 @@
 [Sharding]
     # The targeted number of peer connections
     TargetPeerCount = 47
-    MaxIntraShardValidators = 25
-    MaxCrossShardValidators = 8
+    MaxIntraShardValidators = 8
+    MaxCrossShardValidators = 25
     MaxIntraShardObservers = 7
     MaxCrossShardObservers = 3
     #available options:
