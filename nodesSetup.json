@@ -1,11 +1,11 @@
 {
-  "startTime": 1595365200,
+  "startTime": 1595372400,
   "roundDuration": 6000,
   "consensusGroupSize": 63,
   "minNodesPerShard": 400,
   "metaChainConsensusGroupSize": 400,
   "metaChainMinNodes": 400,
-  "hysteresis": 0.2,
+  "hysteresis": 0.0,
   "adaptivity": false,
   "chainID": "v1.0.144",
   "minTransactionVersion": 1,
